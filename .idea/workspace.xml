@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fbf64ae-33f3-4ba4-8205-dfa9ed91a980" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch03. word2vec/simple_cbow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ch03. word2vec/.ipynb_checkpoints/Ch3. word2vec-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ch03. word2vec/.ipynb_checkpoints/Ch3. word2vec-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ch03. word2vec/Ch3. word2vec.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ch03. word2vec/Ch3. word2vec.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/trainer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/연습용 II.pptm" beforeDir="false" afterPath="$PROJECT_DIR$/연습용 II.pptm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch03. word2vec/simple_cbow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch03. word2vec/simple_cbow.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,10 +17,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ch03. word2vec/simple_cbow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            <state relative-caret-position="721">
+              <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PNG/Figure 3-22.PNG">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -33,36 +35,6 @@
               <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PNG/Figure 1-12.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PNG/Figure 1-15.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PNG/Figure 1-17.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PNG/Figure 1-19.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PNG/Figure 3-18.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PNG/Figure 3-13.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -80,14 +52,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Ch03. word2vec/simple_cbow.py" />
         <option value="$PROJECT_DIR$/common/trainer.py" />
+        <option value="$PROJECT_DIR$/Ch03. word2vec/simple_cbow.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="250" />
-    <option name="y" value="205" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-182" />
+    <option name="y" value="95" />
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
@@ -158,19 +130,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558791146220</updated>
-      <workItem from="1558791147896" duration="2249000" />
+      <workItem from="1558791147896" duration="4494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2249000" />
+    <option name="totallyTimeSpent" value="4494000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-145" y="76" width="1552" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24932976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -196,23 +168,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ch03. word2vec/simple_cbow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/trainer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="831">
-          <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PNG/Figure 1-12.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/PNG/Figure 1-15.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -226,6 +181,26 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/PNG/Figure 3-13.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PNG/Figure 1-12.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="831">
+          <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch03. word2vec/simple_cbow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PNG/Figure 3-22.PNG">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
